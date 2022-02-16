@@ -1,7 +1,5 @@
-*Dardato Andrea, matricola 869120*
-
-*Marinoni Ambrogio Francesco, matricola 869276*
-
+*Frakingo*
+*Condor_Tech*
 ---
 
 # PROGETTO PARSING DI STRINGHE URI
