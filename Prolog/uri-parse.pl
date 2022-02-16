@@ -1,5 +1,5 @@
-% Dardato Andrea, matricola 869120
-% Marinoni Francesco Ambrogio matricola 869276
+% Condor_Tech
+% Frakingo
 
 [library(dcg/basic)].
 

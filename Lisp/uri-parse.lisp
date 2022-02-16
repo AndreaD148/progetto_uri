@@ -1,6 +1,6 @@
 
-;;; Dardato Andrea Matricola 869120
-;;; Marinoni Ambrogio Francesco Matricola 869276
+;;; Condor_Tech
+;;; Frakingo
 
 ;;; VERSIONE DEFINITIVA
 
